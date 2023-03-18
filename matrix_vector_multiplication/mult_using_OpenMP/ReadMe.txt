@@ -1,0 +1,2 @@
+Modification from the book's matrix-vector multiplication program
+"Introduction to Parallel Programming", so that it calculates efficiently (i.e. avoids unnecessary calculations) multiplying the upper triangular matrix by vector, using OpenMP.
