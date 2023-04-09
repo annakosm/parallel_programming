@@ -1,9 +1,7 @@
 /* File:     matvec.c
  * Εργασία 3 – Προγραμματισμός με MPI
  * Άσκηση 3.1
- * sdi2000093 Άννα Κοσμίδη
- * sdi2000107 Λυδία Κυριάκου
- * 
+ 
  * Compile:  mpicc -g -Wall -o matvec matvec.c 
  * 
  * Run:      mpiexec -n <number of processes> ./matvec <n>
